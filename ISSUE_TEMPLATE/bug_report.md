@@ -19,9 +19,9 @@ Before you submit an issue, please perform the following first:
 ## Versions
 <!-- REQUIRED -->
  - Terraform:
- <!-- Execute terraform -version -->
+<!-- Execute terraform -version -->
  - Provider(s):
- <!-- Execute: terraform providers -version -->
+<!-- Execute: terraform providers -version -->
  - Module:
 
 ## Reproduction
