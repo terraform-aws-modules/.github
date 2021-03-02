@@ -2,9 +2,7 @@
 
 All github meta files are stored here and automatically linked from all repositories in [terraform-aws-modules organization](https://github.com/terraform-aws-modules).
 
-## Missing features, bugs, to-dos:
-
-- Content of `ISSUE_TEMPLATE` is not available in repositories. Bug? Feature? I don't know, because I can't find any documentation about this.
+You can read more about this feature and its supported functionality [here](https://docs.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file#supported-file-types).
 
 ## Why?
 
