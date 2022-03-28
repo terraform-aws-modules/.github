@@ -5,7 +5,7 @@ about: Suggest an idea for this project
 ---
 
 ## Is your request related to a new offering from AWS?
-Is this functionality available in the AWS provider for Terraform - https://www.terraform.io/docs/providers/aws/index.html ?
+Is this functionality available in the [AWS provider for Terraform](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)? See [CHANGELOG.md](https://github.com/hashicorp/terraform-provider-aws/blob/main/CHANGELOG.md), too.
   - No 🛑: please wait to file a request until the functionality is avaialble in the AWS provider
   - Yes ✅: please list the AWS provider version which introduced this functionality
 

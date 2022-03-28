@@ -10,7 +10,7 @@
 <!-- If so, please provide an explanation why it is necessary. -->
 
 ## How Has This Been Tested?
-- [ ] I have updated at least on of the `examples/*` to demonstrate and validate my change(s)
+- [ ] I have updated at least one of the `examples/*` to demonstrate and validate my change(s)
 - [ ] I have tested and validated these changes using one or more of the provided `examples/*` projects
 <!--- Users should start with an existing example as its written, deploy it, then check their changes against it -->
 <!--- This will highlight breaking/disruptive changes. Once you have checked, deploy your changes to verify -->
